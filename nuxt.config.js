@@ -3,7 +3,7 @@ export default {
         fallback: true
     },
 
-    target: 'static',
+    target: 'universal',
     
     /*
     ** Headers of the page
