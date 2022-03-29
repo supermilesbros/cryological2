@@ -1,0 +1,177 @@
+[
+  {
+    "name": "About",
+    "path": "/About",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\About.vue",
+    "chunkName": "pages/About",
+    "_name": "_f340b6be"
+  },
+  {
+    "name": "Appointment",
+    "path": "/Appointment",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Appointment.vue",
+    "chunkName": "pages/Appointment",
+    "_name": "_3102529a"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_5d3fd3b8"
+  },
+  {
+    "name": "case-studies",
+    "path": "/case-studies",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\case-studies\\\\index.vue",
+    "chunkName": "pages/case-studies/index",
+    "_name": "_4f806b88"
+  },
+  {
+    "name": "Contact",
+    "path": "/Contact",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Contact.vue",
+    "chunkName": "pages/Contact",
+    "_name": "_6f85d4b4"
+  },
+  {
+    "name": "Cybersecurity",
+    "path": "/Cybersecurity",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Cybersecurity.vue",
+    "chunkName": "pages/Cybersecurity",
+    "_name": "_302201ad"
+  },
+  {
+    "name": "IT-Services",
+    "path": "/IT-Services",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\IT-Services.vue",
+    "chunkName": "pages/IT-Services",
+    "_name": "_4bc04994"
+  },
+  {
+    "name": "IT-Solutions",
+    "path": "/IT-Solutions",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\IT-Solutions.vue",
+    "chunkName": "pages/IT-Solutions",
+    "_name": "_3c257458"
+  },
+  {
+    "name": "Leadership",
+    "path": "/Leadership",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Leadership.vue",
+    "chunkName": "pages/Leadership",
+    "_name": "_1966c93e"
+  },
+  {
+    "name": "Processing",
+    "path": "/Processing",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Processing.vue",
+    "chunkName": "pages/Processing",
+    "_name": "_3f7180af"
+  },
+  {
+    "name": "Resolutions",
+    "path": "/Resolutions",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Resolutions.vue",
+    "chunkName": "pages/Resolutions",
+    "_name": "_57a3f74a"
+  },
+  {
+    "name": "Service",
+    "path": "/Service",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Service.vue",
+    "chunkName": "pages/Service",
+    "_name": "_0bb5b66e"
+  },
+  {
+    "name": "blog-blog-details",
+    "path": "/blog/blog-details",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\blog\\\\blog-details.vue",
+    "chunkName": "pages/blog/blog-details",
+    "_name": "_92a64d96"
+  },
+  {
+    "name": "element-accordion",
+    "path": "/element/accordion",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\accordion.vue",
+    "chunkName": "pages/element/accordion",
+    "_name": "_3264b248"
+  },
+  {
+    "name": "element-box-icon",
+    "path": "/element/box-icon",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\box-icon.vue",
+    "chunkName": "pages/element/box-icon",
+    "_name": "_1bac4e2a"
+  },
+  {
+    "name": "element-box-image",
+    "path": "/element/box-image",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\box-image.vue",
+    "chunkName": "pages/element/box-image",
+    "_name": "_743a3359"
+  },
+  {
+    "name": "element-box-large-image",
+    "path": "/element/box-large-image",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\box-large-image.vue",
+    "chunkName": "pages/element/box-large-image",
+    "_name": "_d1130272"
+  },
+  {
+    "name": "element-call-to-action",
+    "path": "/element/call-to-action",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\call-to-action.vue",
+    "chunkName": "pages/element/call-to-action",
+    "_name": "_d0a96c6e"
+  },
+  {
+    "name": "element-counters",
+    "path": "/element/counters",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\counters.vue",
+    "chunkName": "pages/element/counters",
+    "_name": "_af8484b2"
+  },
+  {
+    "name": "element-gradation",
+    "path": "/element/gradation",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\gradation.vue",
+    "chunkName": "pages/element/gradation",
+    "_name": "_3975b6e7"
+  },
+  {
+    "name": "element-teams",
+    "path": "/element/teams",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\teams.vue",
+    "chunkName": "pages/element/teams",
+    "_name": "_3ab783b6"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_60ad1648"
+  },
+  {
+    "name": "case-studies-id",
+    "path": "/case-studies/:id?",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\case-studies\\\\_id.vue",
+    "chunkName": "pages/case-studies/_id",
+    "_name": "_0f19a8b8"
+  },
+  {
+    "name": "service-slug",
+    "path": "/service/:slug?",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\service\\\\_slug.vue",
+    "chunkName": "pages/service/_slug",
+    "_name": "_0f2e8e31"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2ea55f86"
+  }
+]

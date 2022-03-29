@@ -1,0 +1,31 @@
+{
+    "name": "mitech",
+    "version": "1.0.0",
+    "description": "CryoLogical",
+    "author": "uzzal",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/style-resources": "^1.2.1",
+        "bootstrap": "^4.6.1",
+        "bootstrap-vue": "^2.21.2",
+        "nuxt": "^2.15.8",
+        "swiper": "^5.3.7",
+        "vue-awesome-swiper": "^4.1.0",
+        "vue-cool-lightbox": "^2.7.4",
+        "vue-count-to": "^1.0.13",
+        "vue-fixed-header": "^3.2.15",
+        "vue-observe-visibility": "^1.0.0",
+        "vuejs-paginate": "^2.1.0"
+    },
+    "devDependencies": {
+        "sass": "^1.49.8",
+        "sass-loader": "^10.2.1",
+        "webpack": "^4.46.0"
+    }
+}
