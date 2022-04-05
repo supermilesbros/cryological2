@@ -2,7 +2,7 @@
     <div class="footer-widget">
         <div class="footer-widget__logo mb-30">
             <n-link to="/">
-                <img :src="footerAbout.logo" class="img-fluid" alt="logo">
+                <img :src="footerAbout.logo" class="img-fluid" style="height: 125px" alt="logo">
             </n-link>
         </div>
         <ul class="footer-widget__list">
