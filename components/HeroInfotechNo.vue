@@ -8,7 +8,7 @@
                         <h1 class="font-weight--reguler mb-15" v-html="data.heroInfotechno.title">{{ data.heroInfotechno.title }}</h1>
                         <p>{{ data.heroInfotechno.desc }}</p>
                         <div class="hero-button  mt-30">
-                            <n-link class="ht-btn ht-btn-md" to="/contact">Contact Us</n-link>
+                            <n-link class="ht-btn ht-btn-md" to="/contact">Contact Me</n-link>
                         </div>
                     </div>
                 </div>

@@ -8,9 +8,9 @@
 
         <ContactUsFour />
 
-        <ContactUsInfo />
+        <!-- <ContactUsInfo /> -->
 
-        <CtaOne />
+        <!-- <CtaOne /> -->
 
         <Footer />
 

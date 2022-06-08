@@ -3,175 +3,150 @@
     "name": "About",
     "path": "/About",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\About.vue",
-    "chunkName": "pages/About",
-    "_name": "_f340b6be"
+    "chunkName": "pages/About"
   },
   {
     "name": "Appointment",
     "path": "/Appointment",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Appointment.vue",
-    "chunkName": "pages/Appointment",
-    "_name": "_3102529a"
+    "chunkName": "pages/Appointment"
   },
   {
     "name": "blog",
     "path": "/blog",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index",
-    "_name": "_5d3fd3b8"
+    "chunkName": "pages/blog/index"
   },
   {
     "name": "case-studies",
     "path": "/case-studies",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\case-studies\\\\index.vue",
-    "chunkName": "pages/case-studies/index",
-    "_name": "_4f806b88"
+    "chunkName": "pages/case-studies/index"
   },
   {
     "name": "Contact",
     "path": "/Contact",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Contact.vue",
-    "chunkName": "pages/Contact",
-    "_name": "_6f85d4b4"
+    "chunkName": "pages/Contact"
   },
   {
     "name": "Cybersecurity",
     "path": "/Cybersecurity",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Cybersecurity.vue",
-    "chunkName": "pages/Cybersecurity",
-    "_name": "_302201ad"
+    "chunkName": "pages/Cybersecurity"
   },
   {
     "name": "IT-Services",
     "path": "/IT-Services",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\IT-Services.vue",
-    "chunkName": "pages/IT-Services",
-    "_name": "_4bc04994"
+    "chunkName": "pages/IT-Services"
   },
   {
     "name": "IT-Solutions",
     "path": "/IT-Solutions",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\IT-Solutions.vue",
-    "chunkName": "pages/IT-Solutions",
-    "_name": "_3c257458"
+    "chunkName": "pages/IT-Solutions"
   },
   {
     "name": "Leadership",
     "path": "/Leadership",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Leadership.vue",
-    "chunkName": "pages/Leadership",
-    "_name": "_1966c93e"
+    "chunkName": "pages/Leadership"
   },
   {
     "name": "Processing",
     "path": "/Processing",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Processing.vue",
-    "chunkName": "pages/Processing",
-    "_name": "_3f7180af"
+    "chunkName": "pages/Processing"
   },
   {
     "name": "Resolutions",
     "path": "/Resolutions",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Resolutions.vue",
-    "chunkName": "pages/Resolutions",
-    "_name": "_57a3f74a"
+    "chunkName": "pages/Resolutions"
   },
   {
     "name": "Service",
     "path": "/Service",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\Service.vue",
-    "chunkName": "pages/Service",
-    "_name": "_0bb5b66e"
+    "chunkName": "pages/Service"
   },
   {
     "name": "blog-blog-details",
     "path": "/blog/blog-details",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\blog\\\\blog-details.vue",
-    "chunkName": "pages/blog/blog-details",
-    "_name": "_92a64d96"
+    "chunkName": "pages/blog/blog-details"
   },
   {
     "name": "element-accordion",
     "path": "/element/accordion",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\accordion.vue",
-    "chunkName": "pages/element/accordion",
-    "_name": "_3264b248"
+    "chunkName": "pages/element/accordion"
   },
   {
     "name": "element-box-icon",
     "path": "/element/box-icon",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\box-icon.vue",
-    "chunkName": "pages/element/box-icon",
-    "_name": "_1bac4e2a"
+    "chunkName": "pages/element/box-icon"
   },
   {
     "name": "element-box-image",
     "path": "/element/box-image",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\box-image.vue",
-    "chunkName": "pages/element/box-image",
-    "_name": "_743a3359"
+    "chunkName": "pages/element/box-image"
   },
   {
     "name": "element-box-large-image",
     "path": "/element/box-large-image",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\box-large-image.vue",
-    "chunkName": "pages/element/box-large-image",
-    "_name": "_d1130272"
+    "chunkName": "pages/element/box-large-image"
   },
   {
     "name": "element-call-to-action",
     "path": "/element/call-to-action",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\call-to-action.vue",
-    "chunkName": "pages/element/call-to-action",
-    "_name": "_d0a96c6e"
+    "chunkName": "pages/element/call-to-action"
   },
   {
     "name": "element-counters",
     "path": "/element/counters",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\counters.vue",
-    "chunkName": "pages/element/counters",
-    "_name": "_af8484b2"
+    "chunkName": "pages/element/counters"
   },
   {
     "name": "element-gradation",
     "path": "/element/gradation",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\gradation.vue",
-    "chunkName": "pages/element/gradation",
-    "_name": "_3975b6e7"
+    "chunkName": "pages/element/gradation"
   },
   {
     "name": "element-teams",
     "path": "/element/teams",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\element\\\\teams.vue",
-    "chunkName": "pages/element/teams",
-    "_name": "_3ab783b6"
+    "chunkName": "pages/element/teams"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\blog\\\\_slug.vue",
-    "chunkName": "pages/blog/_slug",
-    "_name": "_60ad1648"
+    "chunkName": "pages/blog/_slug"
   },
   {
     "name": "case-studies-id",
     "path": "/case-studies/:id?",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\case-studies\\\\_id.vue",
-    "chunkName": "pages/case-studies/_id",
-    "_name": "_0f19a8b8"
+    "chunkName": "pages/case-studies/_id"
   },
   {
     "name": "service-slug",
     "path": "/service/:slug?",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\service\\\\_slug.vue",
-    "chunkName": "pages/service/_slug",
-    "_name": "_0f2e8e31"
+    "chunkName": "pages/service/_slug"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\Clietns\\\\steve\\\\site2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_2ea55f86"
+    "chunkName": "pages/index"
   }
 ]
