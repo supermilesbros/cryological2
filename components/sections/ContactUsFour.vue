@@ -6,10 +6,10 @@
                     <div class="col-lg-6 col-lg-6">
                         <div class="conact-us-wrap-one mb-30">
                             <h3 class="heading">
-                                To make requests for <br>further information, <br><span class="text-color-primary">contact us</span> via our social channels. 
+                                To make requests for <br>further information, <br><span class="text-color-primary">contact us</span> with the form. 
                             </h3>
                             <div class="sub-heading">
-                                We just need a couple of hours! <br> No more than 2 working days since receiving your issue ticket.
+                                Decades of experience <br> Helping you save up to 60% on your cryogenic solutions.
                             </div>
                         </div>
                     </div>
@@ -28,6 +28,12 @@
                                     </div>
                                     <div class="contact-inner">
                                         <input name="con_subject" type="text" placeholder="Subject *">
+                                    </div>
+                                    <div class="contact-inner">
+                                        <input name="con_subject" type="text" placeholder="Type of liquid or gas*">
+                                    </div>
+                                    <div class="contact-inner">
+                                        <input name="con_subject" type="text" placeholder="Type of liquid or gas*">
                                     </div>
                                     <div class="contact-inner contact-message">
                                         <textarea name="con_message" placeholder="Please describe what you need."></textarea>
