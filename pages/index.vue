@@ -5,9 +5,7 @@
 
         <HeroInfotechNo />
 
-        <ServiceOne />
-
-        <CtaContact />
+        <ContactUsFive />
 
         <Footer />
 
@@ -20,6 +18,8 @@
     import Header from '@/components/Header';
     import HeroInfotechNo from '@/components/HeroInfotechNo';
     import BrandLogoCarousel from '@/components/BrandLogoCarousel';
+    import ContactUsFive from '@/components/sections/ContactUsFive';
+
     import ServiceOne from '@/components/ServiceOne';
     import InfoTechExperience from '@/components/sections/InfoTechExperience';
     import FunFact from '@/components/FunFact';
@@ -41,6 +41,7 @@
             FunFact,
             CtaVideo,
             CaseStudiesSection,
+            ContactUsFive,
             TestimonialOne,
             BlogStyleOne,
             CtaContact,

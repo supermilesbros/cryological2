@@ -29,14 +29,8 @@
                                     <div class="contact-inner">
                                         <input name="con_subject" type="text" placeholder="Subject *">
                                     </div>
-                                    <div class="contact-inner">
-                                        <input name="con_subject" type="text" placeholder="Type of liquid or gas*">
-                                    </div>
-                                    <div class="contact-inner">
-                                        <input name="con_subject" type="text" placeholder="Type of liquid or gas*">
-                                    </div>
                                     <div class="contact-inner contact-message">
-                                        <textarea name="con_message" placeholder="Please describe what you need."></textarea>
+                                        <textarea name="con_message" placeholder="Please describe how we can help."></textarea>
                                     </div>
                                     <div class="submit-btn mt-20">
                                         <button class="ht-btn ht-btn-md" type="submit">Send message</button>

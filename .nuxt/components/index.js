@@ -66,6 +66,7 @@ export { default as SectionsCaseStudiesSection } from '../..\\components\\sectio
 export { default as SectionsCaseStudiesSectionTwo } from '../..\\components\\sections\\CaseStudiesSectionTwo.vue'
 export { default as SectionsCompanyHistory } from '../..\\components\\sections\\CompanyHistory.vue'
 export { default as SectionsContactUs } from '../..\\components\\sections\\ContactUs.vue'
+export { default as SectionsContactUsFive } from '../..\\components\\sections\\ContactUsFive.vue'
 export { default as SectionsContactUsFour } from '../..\\components\\sections\\ContactUsFour.vue'
 export { default as SectionsContactUsThree } from '../..\\components\\sections\\ContactUsThree.vue'
 export { default as SectionsContactUsTwo } from '../..\\components\\sections\\ContactUsTwo.vue'

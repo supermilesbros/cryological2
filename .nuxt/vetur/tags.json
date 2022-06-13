@@ -203,6 +203,9 @@
   "SectionsContactUs": {
     "description": "Auto imported from components/sections/ContactUs.vue"
   },
+  "SectionsContactUsFive": {
+    "description": "Auto imported from components/sections/ContactUsFive.vue"
+  },
   "SectionsContactUsFour": {
     "description": "Auto imported from components/sections/ContactUsFour.vue"
   },

@@ -74,6 +74,7 @@ You can directly use them in pages and other components without the need to impo
 - `<SectionsCaseStudiesSectionTwo>` | `<sections-case-studies-section-two>` (components/sections/CaseStudiesSectionTwo.vue)
 - `<SectionsCompanyHistory>` | `<sections-company-history>` (components/sections/CompanyHistory.vue)
 - `<SectionsContactUs>` | `<sections-contact-us>` (components/sections/ContactUs.vue)
+- `<SectionsContactUsFive>` | `<sections-contact-us-five>` (components/sections/ContactUsFive.vue)
 - `<SectionsContactUsFour>` | `<sections-contact-us-four>` (components/sections/ContactUsFour.vue)
 - `<SectionsContactUsThree>` | `<sections-contact-us-three>` (components/sections/ContactUsThree.vue)
 - `<SectionsContactUsTwo>` | `<sections-contact-us-two>` (components/sections/ContactUsTwo.vue)
